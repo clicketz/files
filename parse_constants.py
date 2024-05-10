@@ -40,3 +40,4 @@ with open("Constants_Parsed.lua", "w+") as f:
         f.write('    "{}",\n'.format(constant))
 
     f.write("}\n")
+    f.write("return Constants\n")
