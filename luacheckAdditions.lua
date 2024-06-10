@@ -15,6 +15,7 @@ local additions = {
     -- My Additions
     "DebuffTypeColor",
     "EventRegistry",
+    "NORMAL_FONT_COLOR",
     "NUM_CHAT_WINDOWS",
     "WOW_PROJECT_MAINLINE",
     "WOW_PROJECT_CLASSIC",
