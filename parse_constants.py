@@ -1,7 +1,7 @@
 import re
 from tree_sitter_languages import get_language, get_parser
 
-language = get_language('lua')
+# language = get_language('lua')
 parser = get_parser('lua')
 
 found_constants = {}
