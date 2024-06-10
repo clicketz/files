@@ -2,12 +2,26 @@ local additions = {
     -- My AddOns
     "BuffOverlay",
     "BuffOverlayDB",
+    "BuffOverlayBorderTemplateMixin",
     "WhisperCraft",
     "WhisperCraftDB",
 
+    -- Third Party AddOns
+    "ElvUF_Parent", -- ElvUI
+    "GAME_LOCALE",
+    "LibStub",
+    "Scorpio",
+
     -- My Additions
+    "DebuffTypeColor",
     "EventRegistry",
     "NUM_CHAT_WINDOWS",
+    "WOW_PROJECT_MAINLINE",
+    "WOW_PROJECT_CLASSIC",
+    "WOW_PROJECT_BURNING_CRUSADE_CLASSIC",
+    "WOW_PROJECT_WRATH_CLASSIC",
+    "WOW_PROJECT_CATACLYSM_CLASSIC",
+    "WOW_PROJECT_ID",
 
     -- diffs from WeakAuras
     -- TODO: Automate this
@@ -1163,6 +1177,7 @@ local additions = {
     "CloseQuestChoice",
     "CollapseChannelHeader",
     "ColorPaperDollStat",
+    "CompactPartyFrame",
     "ComplainInboxItem",
     "ControlCheckCapTargets",
     "ControlGetActiveCvarValue",
@@ -1481,6 +1496,7 @@ local additions = {
     "InActiveBattlefield",
     "IndentationLib",
     "InitWorldMapPing",
+    "InterfaceOptionsFrame",
     "InviteToGroup",
     "IsActiveQuestIgnored",
     "IsArenaTeamCaptain",
@@ -1639,6 +1655,7 @@ local additions = {
     "SELF_HIGHLIGHT_IN_RAID",
     "SELF_HIGHLIGHT_IN_RAID_COMBAT",
     "SERVER_FIRST_ACHIEVEMENT",
+    "Settings",
     "SHORTDATE_ABBR",
     "SHORTDATE_ABBR_EU",
     "SHOW_CONQUEST_LEVEL",
