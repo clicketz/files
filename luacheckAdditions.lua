@@ -13,10 +13,12 @@ local additions = {
     "Scorpio",
 
     -- My Additions
+    "C_AddOns",
     "DebuffTypeColor",
     "EventRegistry",
     "NORMAL_FONT_COLOR",
     "NUM_CHAT_WINDOWS",
+    "Settings",
     "WOW_PROJECT_MAINLINE",
     "WOW_PROJECT_CLASSIC",
     "WOW_PROJECT_BURNING_CRUSADE_CLASSIC",
