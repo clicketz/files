@@ -13,6 +13,7 @@ local additions = {
     "Scorpio",
 
     -- My Additions
+    "ACCOUNT_WIDE_FONT_COLOR",
     "C_AddOns",
     "DebuffTypeColor",
     "EventRegistry",
