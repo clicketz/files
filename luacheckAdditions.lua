@@ -27,6 +27,12 @@ local additions = {
     "WOW_PROJECT_CATACLYSM_CLASSIC",
     "WOW_PROJECT_ID",
 
+    -- Deprecated for mainline but still needed for classic flavors
+    "InterfaceOptions_AddCategory",
+    "GetSpellTexture",
+    "GetSpellInfo",
+    "GetSpellDescription",
+
     -- diffs from WeakAuras
     -- TODO: Automate this
     "_G",
