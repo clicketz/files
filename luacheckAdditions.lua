@@ -17,6 +17,7 @@ local additions = {
     "C_AddOns",
     "DebuffTypeColor",
     "EventRegistry",
+    "Menu",
     "NORMAL_FONT_COLOR",
     "NUM_CHAT_WINDOWS",
     "Settings",
