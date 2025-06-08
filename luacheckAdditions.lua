@@ -21,12 +21,14 @@ local additions = {
     "NORMAL_FONT_COLOR",
     "NUM_CHAT_WINDOWS",
     "Settings",
+    "WOW_PROJECT_ID",
     "WOW_PROJECT_MAINLINE",
     "WOW_PROJECT_CLASSIC",
+    "WOW_PROJECT_WOWLABS",
     "WOW_PROJECT_BURNING_CRUSADE_CLASSIC",
     "WOW_PROJECT_WRATH_CLASSIC",
     "WOW_PROJECT_CATACLYSM_CLASSIC",
-    "WOW_PROJECT_ID",
+    "WOW_PROJECT_MISTS_CLASSIC",
 
     -- Deprecated for mainline but still needed for classic flavors
     "InterfaceOptions_AddCategory",
