@@ -21,6 +21,7 @@ local additions = {
     "NORMAL_FONT_COLOR",
     "NUM_CHAT_WINDOWS",
     "PlayerLocation",
+    "SendChatMessage",
     "Settings",
     "WOW_PROJECT_ID",
     "WOW_PROJECT_MAINLINE",
